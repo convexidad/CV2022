@@ -1,11 +1,12 @@
 ---
-author: Hugo Authors
+author: Francine Montecinos
 date: "2022-03-04"
-description: Guide to Thumbnails in Hugo
+description: Curriculum Vitae
 tags:
 - thumbnail
 thumbnail: images/landscape.jpg
-title: Guide to Thumbnails in Hugo
+title: Curriculum Vitae
+output: html_document
 ---
 
 Thumbnails can be enabled easily by setting the `thumbnail` parameter in the frontmatter to an image such as `"images/landscape.jpg"`.
