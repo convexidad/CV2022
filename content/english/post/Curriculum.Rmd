@@ -3,8 +3,6 @@ author: Francine Montecinos
 date: "2022-03-04"
 description: Curriculum Vitae
 tags:
-- thumbnail
-thumbnail: images/landscape.jpg
 title: Curriculum Vitae
 output:
   blogdown::html_page:
@@ -13,15 +11,13 @@ output:
     dev: "svg"
 ---
 
-Thumbnails can be enabled easily by setting the `thumbnail` parameter in the frontmatter to an image such as `"images/landscape.jpg"`.
-
-Make sure to copy the image the `static/images/` directory.
-
-If put together, it will look like this (that's in fact this post's frontmatter):
-
-
-```{r, echo=FALSE}
+```{r echo=FALSE}
 xfun::pkg_load2(c("htmltools", "mime"))
 xfun::embed_file("CV-7.pdf")
 ```
 
+<object data="CV-7.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="CV-7.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
