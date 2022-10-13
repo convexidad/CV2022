@@ -16,9 +16,12 @@ xfun::pkg_load2(c("htmltools", "mime"))
 xfun::embed_file("CV-7.pdf")
 ```
 
-<object data="CV-7.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="CV-7.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<body>
+    <center>
+        <embed src=
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" 
+               width="800"
+               height="500">
+    </center>
+</body>
 
