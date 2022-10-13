@@ -19,7 +19,7 @@ xfun::embed_file("CV-7.pdf")
 <body>
     <center>
         <embed src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" 
+"https://www.docdroid.net/file/download/TQaLbZa/cv-7-pdf.pdf" 
                width="800"
                height="500">
     </center>
