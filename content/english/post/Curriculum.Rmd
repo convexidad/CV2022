@@ -17,7 +17,7 @@ If put together, it will look like this (that's in fact this post's frontmatter)
 
 ```{r}
 xfun::pkg_load2(c("htmltools", "mime"))
-xfun::embed_file("images/CV-7.pdf")
+xfun::embed_file("CV-7.pdf")
 getwd()
 ```
 
