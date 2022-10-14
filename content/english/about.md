@@ -17,8 +17,8 @@ University of Chile Graduate with BSc (Hons) in Economics. Confident user of Sta
 
 | Year  |......| Academic Grade |
 | ----- | ---- | | ---- |
-| 2018 - 2022 |....... | **Commercial Engineering**, *University of Chile, Economics* |
-| 2021 - 2022 |....... | **Academic Exchange**, *Tsinghua University, Labor Economics* |
+| 2018 - 2022 |.......| **Commercial Engineering**, *University of Chile, Economics* |
+| 2021 - 2022 |.......| **Academic Exchange**, *Tsinghua University, Labor Economics* |
 
 
 
