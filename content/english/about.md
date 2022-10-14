@@ -14,6 +14,9 @@ University of Chile Graduate with BSc (Hons) in Economics. Confident user of Sta
 
 # Education 
 
+\begin{tabular}{l|l}
+2018 - 2022 & *Ingeniería Comercial*, **Universidad de Chile, Ciencias Económicas**
+\end{tabular}
 
 
 
